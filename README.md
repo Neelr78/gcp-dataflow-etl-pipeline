@@ -21,13 +21,12 @@ Once deployed into your Airflow environment, this pipeline can be triggered manu
 
 ## 📁 Project Structure
 
-```text
 project-root/
 ├── dataflow_script.py     # Beam pipeline code (transform and load)
 ├── Datastream.py          # Custom source extractor or wrapper
 ├── airflow_dag.py         # Airflow DAG file to trigger the pipeline
 └── README.md
-``` </pre>
+
 
 ---
 
