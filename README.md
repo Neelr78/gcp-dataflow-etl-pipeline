@@ -1,4 +1,4 @@
-# airflow-dataflow-etl-pipeline
+# gcp-dataflow-etl-pipeline
 
 A fully orchestrated ETL pipeline built with **Apache Airflow**, using **Google Cloud Dataflow** (Apache Beam) for transformation and **BigQuery** for storage. This project is designed to be deployed directly into an Airflow DAGs folder and executed via the Airflow web UI or scheduler.
 
@@ -76,14 +76,4 @@ And ensure your service account or user has appropriate IAM roles:
 
 > ⚠️ Note: DAG execution will launch a Dataflow job on GCP, so ensure all GCP configurations and credentials are properly set up in your Airflow environment.
 
----
 
-## 📜 License
-
-MIT License
-
----
-
-## 🤝 Contributing
-
-Contributions and improvements are welcome! Feel free to fork and submit pull requests.
