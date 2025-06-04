@@ -28,7 +28,7 @@ project-root/
 ├── airflow_dag.py         # Airflow DAG file to trigger the pipeline
 └── README.md
 
-'''
+text'''
 
 ⚙️ Requirements
 
