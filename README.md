@@ -29,7 +29,7 @@ project-root/
 └── README.md
 ``` </pre>
 
-
+---
 
 ⚙️ Requirements
 
